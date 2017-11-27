@@ -1,6 +1,10 @@
 # Project02
 ## Introduction
 this project is an application that will display a number to the user, who will then have to input a "H" or a "L" to guess if the next number will be higher than the number displayed or lower than the number displayed.
+
+## Flow Chart
+![trace-ball-flow-chart](https://raw.githubusercontent.com/HORNETJOE/Project01/master/Project1_Flowchart.jpg)
+
 # Design Documentation
 ## Process of implementation Algorithm
 the process of implementing the algorithm that would check with the next number to appear is higher or lower based on the user’s guess was a challenge but was achievable.
